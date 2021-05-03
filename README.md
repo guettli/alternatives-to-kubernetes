@@ -32,5 +32,13 @@ But: Vendor Lock-In.
 
 But: Vendor Lock-In.
 
+# Kubernetes Hosted
+
+GKE, EKS, AKS or other 
+
+# Kubernetes on VPSs
+
+But which Kubernetes implementation?
+
 
 
