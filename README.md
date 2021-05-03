@@ -4,7 +4,7 @@ Compared to the applications of big companies, I have a small application.
 
 On the other hand I want to learn new stuff, because I am curious.
 
-Before choosing my next steps, I create this list to get an overview.
+Before choosing a Containerization Platforms, I create this list to get an overview.
 
 My background: I like self-hosting (aka on-premise). I use Linux since 1996 and
 can help myself in most cases.
