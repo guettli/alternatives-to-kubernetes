@@ -40,6 +40,9 @@ GKE, EKS, AKS or other
 
 But which Kubernetes implementation?
 
+* https://rancher.com/docs/k3s/latest/en/ Lightweight Kubernetes. Easy to install, half the memory, all in a binary of less than 100 MB.
+* ....
+
 # Docker Swarm
 
 ...
