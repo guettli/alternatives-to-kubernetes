@@ -11,6 +11,10 @@ can help myself in most cases.
 
 My application needs: Python, Django, PostgreSQL, S3, Redis, Nginx, a task-queue.
 
+Update 2023: I started this list two years ago. While comparing Kubernetes to other alternatives
+I realized that I want to work with Kubernetes. I work for [Syself.com](//syself.com) since January 2023. 
+The rest of this text is propably outdated.
+
 # Nomad
 
 [nomand](https://www.nomadproject.io/) made by HashiCorp looks promissing. 
